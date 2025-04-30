@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rushik Vavdiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt= "coding" src = "https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FRy6p&psig=AOvVaw10x5LmAR7Yh4WLJWX8DxBE&ust=1746067891413000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDusvXf_owDFQAAAAAdAAAAABAJ">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushikvavdiya001&label=Profile%20views&color=0e75b6&style=flat" alt="rushikvavdiya001" /> </p>
 
 - 🌱 I’m currently learning **python, Machine Learning**
