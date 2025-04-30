@@ -1,4 +1,4 @@
-<img align = "center" alt = "banner" src = "https://github.com/rushik-vavdiya/rushik-vavdiya/blob/main/github-header-image.png" />
+<img align = "center" alt = "RushimVavdiya" src = "https://github.com/rushik-vavdiya/rushik-vavdiya/blob/main/github-header-image%20(1).png" />
 <h1 align="center">Hi 👋, I'm Rushik Vavdiya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://github.com/rushik-vavdiya/rushik-vavdiya/blob/main/coding.gif">
